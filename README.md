@@ -655,22 +655,6 @@ cargo --version
 
 </div>
 
----
-
-## 🎓 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{alpenglow2025verification,
-  title        = {Formal Verification of the Alpenglow Consensus Protocol},
-  author       = {Alpenglow Verification Team},
-  year         = {2025},
-  howpublished = {Alpenglow Formal Verification Challenge Submission},
-  note         = {TLA+ specification with multi-method verification},
-  url          = {https://github.com/yourusername/alpenglow-consensus}
-}
-```
 
 ---
 
