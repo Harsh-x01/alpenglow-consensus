@@ -238,7 +238,7 @@ Erasure coding<br/>
 ┣ 🤖 run_all_tests.py            (One-command verification)
 ┣ 📄 SUBMISSION_REPORT.md        (Comprehensive report)
 ┣ 📄 Technical_Report.md         (Detailed analysis)
-┣ 🎥 VIDEO_WALKTHROUGH_SCRIPT.md (Video guide)
+┣ 📊 PPT Walkthrough             (https://ppt-rosy-tau.vercel.app/)
 ┣ 📊 TEST_RESULTS.md             (Latest results)
 ┣ ⚖️  LICENSE                     (Apache 2.0)
 ┗ 📖 README.md                    (This file)
@@ -572,8 +572,8 @@ FastPathBoundedTime ==
    - ⏱️ Performance metrics
    - 📋 Test output logs
 
-4. **[VIDEO_WALKTHROUGH_SCRIPT.md](VIDEO_WALKTHROUGH_SCRIPT.md)**
-   - 🎥 Video guide
+4. **[PPT Walkthrough](https://ppt-rosy-tau.vercel.app/)**
+   - 📊 PPT walkthrough
    - 🎯 Key features
    - 💡 Verification showcase
 
